@@ -1,4 +1,3 @@
-```markdown
 # Allan Korir
 
 **Backend Developer • Java • Spring Boot • Fintech**
@@ -26,15 +25,15 @@ I'm a backend developer passionate about building scalable, secure, and maintain
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=crystallan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crystallan&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=crystallan&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -65,7 +64,4 @@ A full-stack event management platform built with Spring Boot and React Native f
     <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
----
 
-> *"Building software that solves real problems."*
-```
