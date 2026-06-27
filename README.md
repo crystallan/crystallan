@@ -1,62 +1,71 @@
-## Hi there 👋
+```markdown
+# Allan Korir
 
-I'm Allan, a BBIT finalist awaiting graduation from Kenya Methodist University. I'm an aspiring backend developer with a strong focus on Java and Spring Boot. I enjoy building scalable backend systems and solving real-world problems, particularly in the fintech space.
+**Backend Developer • Java • Spring Boot • Fintech**
 
-### 🚀 About Me
+I'm a backend developer passionate about building scalable, secure, and maintainable applications with Java and Spring Boot. I'm currently completing my Bachelor's in Business Information Technology at Kenya Methodist University and enjoy solving real-world problems through clean software architecture and modern backend technologies.
 
-- 🎓 Bachelor of Business Information Technology (BBIT)
-- ☕ Backend Developer specializing in Java & Spring Boot
-- 🌱 Currently expanding my knowledge of system design, cloud technologies, and software architecture
-- 💡 Interested in fintech, APIs, distributed systems, and secure application development
-- 💻 Passionate about writing clean, maintainable, and efficient code
-- 📍 Based in Nairobi, Kenya
+---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
-- Java
-- TypeScript
-- JavaScript
-- SQL
-- PHP
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,react,ts,js,docker,maven,git,github,postman,idea,vscode)](https://skillicons.dev)
 
-**Backend**
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- REST APIs
-- Hibernate
+---
 
-**Frontend**
-- React
-- HTML5
-- CSS3
+## 🚀 Current Focus
 
-**Databases**
-- PostgreSQL
-- MySQL
+- Building a production-ready **Events Management System** using **Spring Boot** and **React Native**
+- Designing secure REST APIs with **Spring Security** and **JWT**
+- Learning **System Design**, **Docker**, **CI/CD**, and **Cloud Deployment**
+- Contributing to open-source projects
 
-**Tools & Technologies**
-- Git
-- GitHub
-- Docker
-- Maven
-- Postman
-- IntelliJ IDEA
-- VS Code
-- Cloudinary and Supabase
-### 📌 Current Focus
+---
 
-- Building production-ready full stack events management system with React Native and Spring Boot
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crystallan&show_icons=true&theme=github_dark)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=crystallan&theme=github-dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crystallan&layout=compact&theme=github_dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
 
-### 📫 Connect With Me
+</div>
 
-- LinkedIn: https://linkedin.com/in/allan-korir-
-- Email: allan.korirc@gmail.com
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 📅 Mizani
+A full-stack event management platform built with Spring Boot and React Native featuring authentication, event management, ticket booking, payments, and notifications.
+
+**Tech:** Spring Boot • React Native • PostgreSQL • JWT • Cloudinary
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=crystallan&theme=github-compact&hide_border=true"/>
+
+---
+
+## 📫 Connect
+
+<a href="https://linkedin.com/in/allan-korir-">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:allan.korirc@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+---
+
+> *"Building software that solves real problems."*
+```
